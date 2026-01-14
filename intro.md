@@ -1,5 +1,9 @@
-# The Journey to the West
+# TThe Legend of the Monkey King: The Four Trials
 
-You are Sun Wukong, the Great Sage Equal to Heaven. You have been tasked with protecting the Monk Tang Sanzang on a dangerous pilgrimage to the West to retrieve sacred scriptures. Armed with your magical Golden Staff and the power of 72 transformations, you stand at a crossroads where ancient demons and celestial challenges await. Your master's life and the success of the mission depend entirely on your next move.
+You are Sun Wukong, the Great Sage Equal to Heaven. You possess 72 transformations, a magical Golden Staff that weighs 17,500 pounds, and a cloud that carries you across the sky.
 
-The path ahead is shrouded in mist and mystery. What will you do next?
+Currently, you are on a sacred mission to protect the Monk, Tang Sanzang, on a journey to the Western Heaven. However, the path is filled with ancient demons and celestial challenges that test your strength, wisdom, and loyalty.
+
+You stand at a mystical crossroads. Four distorted paths lie before you, each leading to a legendary battle from your past or future. The air is heavy with magic, and your Master is waiting for your guidance.
+
+**What will you do next?**
