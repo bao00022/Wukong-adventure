@@ -8,8 +8,9 @@ You stand at a mystical crossroads. Four distorted paths lie before you, each le
 
 **What will you do next?**
 
-[Visit the Dragon King's palace](dragon-king.md)
-
 [Path of Fire: The Flaming Mountains](flaming-mountains.md)
 
 [Path of Identity: The Real vs. the Imposter](imposter-monkey.md)
+
+[Visit the Dragon King's palace](dragon-king.md)
+
