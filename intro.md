@@ -9,3 +9,5 @@ You stand at a mystical crossroads. Four distorted paths lie before you, each le
 **What will you do next?**
 
 [Path of Fire: The Flaming Mountains](flaming-mountains.md)
+
+[Path of Identity: The Real vs. the Imposter](imposter-monkey.md)
