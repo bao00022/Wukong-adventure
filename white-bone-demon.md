@@ -12,4 +12,7 @@ Beneath her skin is not warmth or blood—only bone.
 
 A skeletal spirit wears a human face.
 
+If you strike now, your Master may call you cruel, even murderous.  
+If you hesitate, the demon will feast on him the moment your guard drops.
+
 **What do you do?**
