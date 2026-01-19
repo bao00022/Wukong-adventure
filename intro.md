@@ -7,3 +7,5 @@ Currently, you are on a sacred mission to protect the Monk, Tang Sanzang, on a j
 You stand at a mystical crossroads. Four distorted paths lie before you, each leading to a legendary battle from your past or future. The air is heavy with magic, and your Master is waiting for your guidance.
 
 **What will you do next?**
+
+[Path of Fire: The Flaming Mountains](flaming-mountains.md)
