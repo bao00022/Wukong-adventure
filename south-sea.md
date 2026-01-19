@@ -6,7 +6,7 @@ The possessed Dragon King awaits you, his eyes glowing with malevolent energy. D
 
 "Brother Ao Guang sent you?" Ao Qin laughs, his voice distorted by the evil spirit within. "Even the Great Sage Equal to Heaven cannot stop me now!"
 
-You remember the lessons from your Master, Tang Sanzang. Sometimes strength alone is not enough—wisdom and compassion can triumph where brute force fails.
+You remember the lessons from your Master, Tang Sanzang. Sometimes strength alone is not enough. Wisdom and compassion can triumph where brute force fails.
 
 **What will you do?**
 
