@@ -6,7 +6,7 @@ The palace gates swing open, and shimmering fish guards bow as you enter. Inside
 
 "Sun Wukong!" Ao Guang exclaims, his voice echoing through the watery halls. "What brings the Great Sage to my domain?"
 
-You remember this place well—it was here that you claimed your legendary Ruyi Jingu Bang, the Golden-Banded Staff, from the Dragon King's treasury. But today, something feels different. The palace guards seem nervous, and whispers flow through the court like currents.
+You remember this place well. It was here that you claimed your legendary Ruyi Jingu Bang, the Golden-Banded Staff, from the Dragon King's treasury. But today, something feels different. The palace guards seem nervous, and whispers flow through the court like currents.
 
 "A dark force stirs in the depths," the Dragon King confesses, his eyes filled with worry. "An ancient sea demon has awakened and threatens to flood the mortal world. I need your help, Monkey King."
 
