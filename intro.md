@@ -7,4 +7,8 @@ Currently, you are on a sacred mission to protect the Monk, Tang Sanzang, on a j
 You stand at a mystical crossroads. Four distorted paths lie before you, each leading to a legendary battle from your past or future. The air is heavy with magic, and your Master is waiting for your guidance.
 
 **What will you do next?**
-- [Visit the Dragon King's palace](dragon-king.md)
+[Visit the Dragon King's palace](dragon-king.md)
+
+[Path of Fire: The Flaming Mountains](flaming-mountains.md)
+
+[Path of Identity: The Real vs. the Imposter](imposter-monkey.md)
