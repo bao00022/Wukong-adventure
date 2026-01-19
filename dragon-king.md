@@ -11,5 +11,3 @@ You remember this place well, it was here that you claimed your legendary Ruyi J
 "A dark force stirs in the depths," the Dragon King confesses, his eyes filled with worry. "An ancient sea demon has awakened and threatens to flood the mortal world. I need your help, Monkey King."
 
 **What will you do?**
-
-- Continue reading... (more choices coming soon)
